@@ -11,3 +11,5 @@ Add Text4 By Hotfix
 Add Text5 By Hotfix
 
 Add Text6 By Hotfix
+
+Add Text7 By Hotfix
